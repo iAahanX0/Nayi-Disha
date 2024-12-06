@@ -1,6 +1,7 @@
 A Job Portal built with the MERN stack (MongoDB, Express.js, React, and Node.js) is a modern web application that connects job seekers and employers.
 
 Key Features:
+
     User Authentication: Secure login and registration for job seekers and employers.
     Job Listings: Employers can post job openings with detailed descriptions.
     Search and Filter: Job seekers can browse jobs by location, role, salary, and more.
